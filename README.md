@@ -13,7 +13,7 @@ Python Language is used along with tkinter (Simple UI) and custom tkinter (Moder
 ### Dark Mode
 ![Dark Mode ScreenShot](https://github.com/OM3R-Nazir/File-PDF-Combiner/blob/main/screenshots/dark.png?raw=true)
 ### Simple
-![Simple UI ScreenShot](https://github.com/OM3R-Nazir/File-PDF-Combiner/blob/main/screenshots/dark.png?raw=true)
+![Simple UI ScreenShot](https://github.com/OM3R-Nazir/File-PDF-Combiner/blob/main/screenshots/simple.png?raw=true)
 ## Bugs
 ### Modern UI
 1. Changing Windows Theme mode does not update treeview style
