@@ -7,6 +7,13 @@ A Desktop App that can combine excel, word, presentations, images and pdf files 
 4. Can move files with in table by dragging
 ## Languages and Packages
 Python Language is used along with tkinter (Simple UI) and custom tkinter (Modern UI). Executable packaging are made through nuikta.
+## Screen Shots
+### Light Mode
+[Light Mode ScreenShot](https://github.com/OM3R-Nazir/File-PDF-Combiner/blob/main/screenshots/light.png?raw=true)
+### Dark Mode
+[Dark Mode ScreenShot](https://github.com/OM3R-Nazir/File-PDF-Combiner/blob/main/screenshots/dark.png?raw=true)
+### Simple
+[Simple UI ScreenShot](https://github.com/OM3R-Nazir/File-PDF-Combiner/blob/main/screenshots/dark.png?raw=true)
 ## Bugs
 ### Modern UI
 1. Changing Windows Theme mode does not update treeview style
