@@ -1,0 +1,6 @@
+customtkinter==5.1.2
+darkdetect==0.8.0
+fpdf==1.7.2
+Pillow==9.4.0
+PyPDF2==3.0.1
+pywin32==305
