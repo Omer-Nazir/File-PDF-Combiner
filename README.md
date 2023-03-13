@@ -1,5 +1,9 @@
 # File-PDF-Combiner
-A Desktop App that can combine excel, word, presentations, images and pdf files into one single pdf file with bookmarks. Thing that makes it standout is that it can also merge password protected Powerpoints. Currently In Modern UI V 1.0, Dragging and Dropping external files into app is supported. while Simple UI V 1.0 does
+A Desktop App that can combine excel, word, presentations, images and pdf files into one single pdf file with bookmarks. Thing that makes it standout is that it can also merge password protected Powerpoints. Currently In Release v1.0.0, Modern UI does not support Drag and Drop for external files while Simple UI does.
+## Languages and Packages
+Python Language is used along with tkinter (Simple UI) and custom tkinter (Modern UI). Executables are made through nuikta packaging.
+## Bugs
+Changing Windows Theme mode does not update treeview style
 # Licence
 Currently not Licenced
 # Download:
