@@ -3,7 +3,9 @@ A Desktop App that can combine excel, word, presentations, images and pdf files 
 ## Languages and Packages
 Python Language is used along with tkinter (Simple UI) and custom tkinter (Modern UI). Executable packaging are made through nuikta.
 ## Bugs
-Changing Windows Theme mode does not update treeview style
+### Modern UI
+1. Changing Windows Theme mode does not update treeview style
+2. Toplevel windows donot open in focus and their icons are changed to default custom tkinter icon
 # Licence
 Currently not Licenced
 # Download
