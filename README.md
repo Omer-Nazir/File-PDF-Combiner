@@ -6,6 +6,7 @@ Python Language is used along with tkinter (Simple UI) and custom tkinter (Moder
 Changing Windows Theme mode does not update treeview style
 # Licence
 Currently not Licenced
-# Download:
-Follow the following link to download standalone executables
+# Download
+Follow the following link to download standalone executables:
+
 [Google Drive](https://drive.google.com/drive/folders/14C3XE5p2PElz2H6RgWpl6rlcAnUFQHe3?usp=sharing)
