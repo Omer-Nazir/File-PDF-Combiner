@@ -27,5 +27,11 @@ Each UI have 2 distributions
 2. Single Directory build: consists of a directory. Place directory somewhere in PC, then use shortcut to access the app. (can have better performance then standalone file build)
 
 Follow the following link to download app:
+## Modern UI
+[Standalone File](https://drive.google.com/file/d/1P7IhZrIKcxyK99tbJjjTfrIPjo7W-tvz/view?usp=share_link)
+[Single Directory](https://drive.google.com/file/d/1r94SZR297Fs46VmmBQBlyT84ZQ7ziQOS/view?usp=share_link)
+## Simple UI
+[Standalone File](https://drive.google.com/file/d/1dq7Q1CAHapsnegXb5ZZiwN7yLDmvSr4P/view?usp=share_link)
+[Single Directory](https://drive.google.com/file/d/1aIX5_UuUPHbfF5NETaTS5e8GBiKvWQXg/view?usp=share_link)
 
 [Google Drive](https://drive.google.com/drive/folders/14C3XE5p2PElz2H6RgWpl6rlcAnUFQHe3?usp=sharing)
