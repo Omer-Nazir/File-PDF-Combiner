@@ -2,9 +2,10 @@
 A Desktop App that can combine excel, word, presentations, images and pdf files into one single pdf file with bookmarks. Thing that makes it standout is that it can also merge password protected Powerpoints. Currently In Release v1.0.0, Modern UI does not support Drag and Drop for external files while Simple UI does.
 ## Features
 1. Can combine password proctected Read only PowerPoints
-2. Drag and Drop Files into app (Simple UI Only)
-3. Can move multiple selected files within table
-4. Can move files with in table by dragging
+2. Many ppt to pdf converters/compilers tend to open ppts during compilation. this can cause quite a hinderance in users normal pc usage. This app avoids it, making it user friendly 
+3. Drag and Drop Files into app (Simple UI Only)
+4. Can move multiple selected files within table
+5. Can move files with in table by dragging
 ## Languages and Packages
 Python Language is used along with tkinter (Simple UI) and custom tkinter (Modern UI). Executable packaging are made through nuikta.
 ## Screen Shots
