@@ -18,6 +18,6 @@ Each UI have 2 distributions
 1. Standalone file build: consists of single Standalone exe file
 2. Single Directory build: consists of a directory. Place directory somewhere in PC, then use shortcut to access the app. (can have better performance then standalone file build)
 
-Follow the following link to download standalone executables:
+Follow the following link to download app:
 
 [Google Drive](https://drive.google.com/drive/folders/14C3XE5p2PElz2H6RgWpl6rlcAnUFQHe3?usp=sharing)
