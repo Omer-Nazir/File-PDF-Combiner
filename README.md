@@ -1,5 +1,8 @@
 # File-PDF-Combiner
 A Desktop App that can combine excel, word, presentations, images and pdf files into one single pdf file with bookmarks. Thing that makes it standout is that it can also merge password protected Powerpoints. Currently In Release v1.0.0, Modern UI does not support Drag and Drop for external files while Simple UI does.
+1. (Features)[##Features]
+
+
 ## Features
 1. Can combine password proctected Read only PowerPoints
 2. Many ppt to pdf converters/compilers tend to open ppts during compilation. this can cause quite a hinderance in users normal pc usage. This app avoids it, making it user friendly 
@@ -20,7 +23,7 @@ Python Language is used along with tkinter (Simple UI) and custom tkinter (Moder
 1. Changing Windows Theme mode does not update treeview style
 2. Toplevel windows donot open in focus and their icons are changed to default custom tkinter icon
 # Licence
-Currently not Licenced
+MIT Licensed
 # Download
 Each UI have 2 distributions
 1. Standalone file build: consists of single Standalone exe file
