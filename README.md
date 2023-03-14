@@ -1,11 +1,11 @@
 # File-PDF-Combiner
 A Desktop App that can combine excel, word, presentations, images and pdf files into one single pdf file with bookmarks. Thing that makes it standout is that it can also merge password protected Powerpoints. Currently In Release v1.0.0, Modern UI does not support Drag and Drop for external files while Simple UI does.
-- (Features)[#features]
-- (Screen Shots)[#screen-shots]
-- (Download)[#download]
-- (Languages and Packages)[#languages-and-packages] 
-- (Bugs)[#bugs]
-- (Licence)[#licence] 
+- [Features](#features)
+- [Screen Shots](#screen-shots)
+- [Download](#download)
+- [Languages and Packages](#languages-and-packages) 
+- [Bugs](#bugs)
+- [Licence](#licence) 
 
 ## Features
 1. Can combine password proctected Read only PowerPoints
