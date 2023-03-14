@@ -7,7 +7,7 @@ A Desktop App that can combine excel, word, presentations, images and pdf files 
 - (Bugs)[#bugs]
 - (Licence)[#licence] 
 
-# Features
+##Features
 1. Can combine password proctected Read only PowerPoints
 2. Many ppt to pdf converters/compilers tend to open ppts during compilation. this can cause quite a hinderance in users normal pc usage. This app avoids it, making it user friendly 
 3. Drag and Drop Files into app (Simple UI Only)
