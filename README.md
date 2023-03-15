@@ -29,7 +29,7 @@ MS Office (for compiling Excel, PowerPoints or .docx)
 
 ## Download
 ### Note
-Please note that anti-virus and windows might find these files harmful and give false positive. You can continue without any worries.
+Please note that anti-virus and windows might find these files harmful and give false positive beacuse this project is not from a famous publisher. You can continue without any worries.
 If following message shows up
 
 ![Windows protected your pc](https://github.com/OM3R-Nazir/File-PDF-Combiner/blob/main/screenshots/winprot1.jpeg)
