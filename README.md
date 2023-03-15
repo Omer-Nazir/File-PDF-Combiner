@@ -30,9 +30,13 @@ MS Office (for compiling Excel, PowerPoints or .docx)
 ## Download
 (NOTE!!: Please note that anti-virus and windows might find these files harmful and give false positive. You can continue without any worries.)
 If following message shows up
+
 ![Windows protected your pc](https://github.com/OM3R-Nazir/File-PDF-Combiner/blob/main/screenshots/winprot1.jpeg)
+
 Just click on more info and you will see the following message
+
 ![Windows protected your pc](https://github.com/OM3R-Nazir/File-PDF-Combiner/blob/main/screenshots/winprot2.jpeg)
+
 Clicking on runany way will run the file
 
 There are 2 UI distributions
