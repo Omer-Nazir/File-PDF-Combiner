@@ -17,6 +17,7 @@ A Desktop App that can combine excel, word, presentations, images and pdf files 
 
 ## Requirements
 64-bit Windows Operating System
+MS Office (for compiling Excel, PowerPoints or .docx)
 
 ## Screen Shots
 ### Light Mode
