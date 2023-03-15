@@ -28,19 +28,21 @@ MS Office (for compiling Excel, PowerPoints or .docx)
 ![Simple UI ScreenShot](https://github.com/OM3R-Nazir/File-PDF-Combiner/blob/main/screenshots/simple.png?raw=true)
 
 ## Download
+(NOTE!!: Please note that anti-virus and windows might find these files harmful and give false positive. You can continue without any worries.)
+If following message shows up
+![Windows protected your pc](https://github.com/OM3R-Nazir/File-PDF-Combiner/blob/main/screenshots/winprot1.png?raw=true)
+Just click on more info and you will see the following message
+![Windows protected your pc](https://github.com/OM3R-Nazir/File-PDF-Combiner/blob/main/screenshots/winprot2.png?raw=true)
+Clicking on runany way will run the file
+
+There are 2 UI distributions
+1. Modern UI: (does not support drag and drop for external files and have some minor bugs(not really effeccting the user) given in [Bugs Section](#bugs))
+2. Simple UI
 Each UI have 2 distributions
 1. Standalone file build: consists of single Standalone exe file
 2. Single Directory build: consists of a directory. Place directory somewhere in PC, then use shortcut to access the app. (can have better performance then standalone file build)
 
-Follow the following link to download app:
-### Modern UI
-[Standalone File](https://drive.google.com/file/d/1P7IhZrIKcxyK99tbJjjTfrIPjo7W-tvz/view?usp=share_link)
-
-[Single Directory](https://drive.google.com/file/d/1r94SZR297Fs46VmmBQBlyT84ZQ7ziQOS/view?usp=share_link)
-### Simple UI
-[Standalone File](https://drive.google.com/file/d/1dq7Q1CAHapsnegXb5ZZiwN7yLDmvSr4P/view?usp=share_link)
-
-[Single Directory](https://drive.google.com/file/d/1aIX5_UuUPHbfF5NETaTS5e8GBiKvWQXg/view?usp=share_link)
+Check in the Releases in the side panel to download the files
 
 ## Languages and Packages
 Python Language is used along with tkinter (Simple UI) and custom tkinter (Modern UI). Executable packaging are made through nuikta.
