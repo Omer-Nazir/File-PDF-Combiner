@@ -41,15 +41,11 @@ Just click on more info and you will see the following message
 Clicking on runany way will run the file.
 Also dont forget to add this file to exception list in windows defender. [Here is how to do it](https://support.microsoft.com/en-us/windows/add-an-exclusion-to-windows-security-811816c0-4dfd-af4a-47e4-c301afe13b26#:~:text=Go%20to%20Start%20%3E%20Settings%20%3E%20Update,%2C%20file%20types%2C%20or%20process.)
 
-### Major Types
-There are 2 UI distributions
-1. [Modern UI](https://github.com/OM3R-Nazir/File-PDF-Combiner/releases/download/v0.1.0-mui/File-PDF.Combiner.exe) : (does not support drag and drop for external files and have some minor bugs(not really effeccting the user) given in [Bugs Section](#bugs))
+### Download Links
+1. [Modern UI*](https://github.com/OM3R-Nazir/File-PDF-Combiner/releases/download/v0.1.0-mui/File-PDF.Combiner.exe) 
 2. [Simple UI](https://github.com/OM3R-Nazir/File-PDF-Combiner/releases/download/v0.1.0-sui/File-PDF.Combiner.exe)
 
-
-Note that do try Single Directory build if standalone fails
-
-Check in the Releases section in the side panel to download the files. Once you selected from MUI (Modern) or SUI (Simple), you can then download respective distribution type, either standalone or single directory build
+(*does not support drag and drop for external files and have some minor bugs(not really effeccting the user) given in [Bugs Section](#bugs))
 
 ## Languages and Packages
 Python Language is used along with tkinter (Simple UI) and custom tkinter (Modern UI). Executable packaging are made through nuikta.
