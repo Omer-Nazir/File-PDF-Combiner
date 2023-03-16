@@ -43,13 +43,9 @@ Also dont forget to add this file to exception list in windows defender. [Here i
 
 ### Major Types
 There are 2 UI distributions
-1. Modern UI: (does not support drag and drop for external files and have some minor bugs(not really effeccting the user) given in [Bugs Section](#bugs))
-2. Simple UI
+1. [Modern UI](https://github.com/OM3R-Nazir/File-PDF-Combiner/releases/download/v0.1.0-mui/File-PDF.Combiner.exe) : (does not support drag and drop for external files and have some minor bugs(not really effeccting the user) given in [Bugs Section](#bugs))
+2. [Simple UI](https://github.com/OM3R-Nazir/File-PDF-Combiner/releases/download/v0.1.0-sui/File-PDF.Combiner.exe)
 
-### Distribution types
-Each UI have 2 distributions
-1. Standalone file build: consists of single Standalone exe file
-2. Single Directory build: consists of a directory. Place directory somewhere in PC, then use shortcut to access the app. (can have better performance then standalone file build)
 
 Note that do try Single Directory build if standalone fails
 
