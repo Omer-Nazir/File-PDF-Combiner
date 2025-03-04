@@ -45,7 +45,7 @@ Also dont forget to add this file to exception list in windows defender. [Here i
 1. [Modern UI*](https://github.com/OM3R-Nazir/File-PDF-Combiner/releases/download/v0.1.0-mui/File-PDF.Combiner.exe) 
 2. [Simple UI](https://github.com/OM3R-Nazir/File-PDF-Combiner/releases/download/v0.1.0-sui/File-PDF.Combiner.exe)
 
-(*does not support drag and drop for external files and have some minor bugs(not really effecting the user) given in [Bugs Section](#bugs))
+(*does not support drag and drop for external files and have some minor bugs(not really affecting the user) given in [Bugs Section](#bugs))
 
 ## Languages and Packages
 Python Language is used along with tkinter (Simple UI) and custom tkinter (Modern UI). Executable packaging are made through nuikta.
